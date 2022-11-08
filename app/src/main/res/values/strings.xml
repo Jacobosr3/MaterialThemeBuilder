@@ -21,9 +21,9 @@
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 
     <!--Main-->
-    <string name="tab_title_instructions">Instructions</string>
-    <string name="tab_title_components">Components</string>
-    <string name="tab_title_theme_summary">Theme summary</string>
+    <string name="tab_title_instructions">Herramientas</string>
+    <string name="tab_title_components">componentes</string>
+    <string name="tab_title_theme_summary">summario</string>
 
     <!--Instructions-->
     <string name="instructions_how_to">Build your own custom Material Theme by remixing and styling these themeable components.\n\nModify the variables in your project\'s color.xml, type.xml and shape.xml files to see your custom styles cascade through Material Components for Android.</string>
