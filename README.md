@@ -1,4 +1,4 @@
-###!!!!CAMBIOS¡¡¡¡
+### !!!!CAMBIOS¡¡¡¡
 
 ![GitHub Logo](/images/activity_main.png)
 se ha cambiado el símbolo drawable 
