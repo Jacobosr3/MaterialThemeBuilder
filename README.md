@@ -1,5 +1,5 @@
 ### !!!!CAMBIOS¡¡¡¡
-####### cambios en la carpeta layout
+###### cambios en la carpeta layout
 ![GitHub Logo](/images/activity_main.png)
 se ha cambiado el símbolo drawable 
 y el fondo del texto cool theme
@@ -38,7 +38,7 @@ He añadido un tema al button
 
 
 
-####### cambios en la carpeta values
+###### cambios en la carpeta values
 ![GitHub Logo](/images/color.png)
 Se ha cambiado los colores
 
