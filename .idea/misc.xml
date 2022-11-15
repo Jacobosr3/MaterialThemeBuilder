@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/am6Dam2/AndroidStudioProjects/MaterialThemeBuilder/app/src/main/res/drawable/ic_add_on_secondary_24dp.xml" value="0.1925" />
+        <entry key="..\:/Users/am6Dam2/AndroidStudioProjects/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml" value="0.38125" />
+        <entry key="..\:/Users/am6Dam2/AndroidStudioProjects/MaterialThemeBuilder/app/src/main/res/layout/color_attribute_view_layout.xml" value="0.38125" />
+        <entry key="..\:/Users/am6Dam2/AndroidStudioProjects/MaterialThemeBuilder/app/src/main/res/layout/component_bottom_app_bar.xml" value="0.38125" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
