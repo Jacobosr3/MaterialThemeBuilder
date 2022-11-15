@@ -1,34 +1,46 @@
-## Build a Material Theme
-Build a Material Theme lets you create your own Material theme by customizing values for color, typography, and shape. See how these values appear when applied to Material Components and discover how to implement your custom theme in your own projects. Build a Material Theme is also available for the web as a remixable project on [Glitch](https://glitch.com/~material-theme-builder).
+### !!!!CAMBIOS¡¡¡¡
+###### cambios en la carpeta layout
+![GitHub Logo](/images/activity_main.png)
+se ha cambiado el símbolo drawable 
+y el fondo del texto cool theme
 
-## Overview
-Material Components for Android supports Material Theming by exposing top level theme attributes for color, typography and shape. Customizing these attributes will apply your custom theme throughout your entire app. 
 
-This project shows how you can organize and use your theme and style resources to take advantage of the robust support for theming in Material Components for Android.
+![GitHub Logo](/images/color_attribute_view_layout.png)
+se ha cambiado el color del texto
 
-## Change values for typography, shape, and color
-By default, apps built with Material Components inherit our baseline theme values. To begin customizing, override properties in `color.xml`, `type.xml` and `shape.xml`. Each file includes detailed comments that illustrate how each subsystem can be customized.
 
-### type.xml
-To change your theme’s typography, we recommend using [Google Fonts](https://fonts.google.com/) and choosing a font family that best reflects your style. Set TextApperances to use your custom font and additional type properties to apply a custom type scale globally. [Learn how to add fonts in Android Studio](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
+![GitHub Logo](/images/component_bottom_app_bar.png)
+He cambiado el propio drawable modificando en el su color
 
-### shape.xml
-To systematically apply shape throughout your app, it helps to understand that components are grouped by size into categories of small, medium and large. The shape of each component size group can be themed by customizing its ShapeApperance style.  We recommend using our [shape customization tool](https://material.io/design/shape/about-shape.html#shape-customization-tool) to help you pick your corner family and size values.
 
-### color.xml
-To change your theme's color scheme, replace the existing HEX color values with your custom HEX values. This project has both light and dark themes, toggle between them within the app to see your changes. Use our [color palette generator](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) to help come up with pairings and check your color contrast.
+![GitHub Logo](/images/component_bottom_sheet.png)
+Se ha cambiado el padding start a la etiqueta constraint y añadido textcolor al button
 
-## Get Started
-Clone the material-components-android-examples repository 
 
-```
-git clone https://github.com/material-components/material-components-android-examples.git
-```
+![GitHub Logo](/images/component_buttons.png)
+Cambio el estilo de los botones left y right
 
-In Android Studio - Choose ‘Open an existing Android Studio Project’ and select ‘material-components-android-examples/MaterialThemeBuilder’
 
-Sync, build and run the project. The project, by default, will be configured with the baseline Material theme.
+![GitHub Logo](/images/component_cards.png)
+La apariencia del título y del cuerpo se han cambiado y el margen entre los botones
 
-Under the ‘res’ folder, open `color.xml`, `type.xml` and `shape.xml`. Each file has detailed comments describing the Material subsystem it controls. Try modifying each subsystem, re-running the app and seeing how changes are propagated throughout the app.
 
-Once you build your Material theme, move the theme resources (`color.xml`, `type.xml`, `shape.xml`, `styles.xml`, `themes.xml` and `night/themes.xml`) over to your app to start using your Material theme in your own projects.
+![GitHub Logo](/images/component_checkbox.png)
+he añadido un checkbox 
+
+
+![GitHub Logo](/images/component_chips.png)
+Campos que estaban desactivados lo he puesto que salgan selecioandos
+
+
+![GitHub Logo](/images/component_dialog.png)
+He añadido un tema al button
+
+
+
+###### cambios en la carpeta values
+![GitHub Logo](/images/color.png)
+Se ha cambiado los colores
+
+![GitHub Logo](/images/string.png)
+Se ha cambiado los textos de algunas etiquetas como los selecioandos
